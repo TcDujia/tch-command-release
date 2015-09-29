@@ -1,0 +1,55 @@
+{
+  "name": "tch-command-release",
+  "description": "tch release command.",
+  "version": "0.2.0",
+  "author": {
+    "name": "gerdy"
+  },
+  "homepage": "http://fis.baidu.com/",
+  "keywords": [
+    "tch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerdy/fis-command-release.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "release.js",
+  "scripts": {
+    "test": "mocha test/ut --recursive"
+  },
+  "dependencies": {
+    "chokidar": "0.6.3",
+    "ftp-deploy": "^0.7.0",
+    "livereload-server-spec": "0.2.3",
+    "merge": "^1.1.3"
+  },
+  "devDependencies": {},
+  "gitHead": "9a78c398c03254674d45116b43689e865a43346a",
+  "bugs": {
+    "url": "https://github.com/gerdy/fis-command-release/issues"
+  },
+  "_id": "tch-command-release@0.1.0",
+  "_shasum": "5ad210b43ebd3ccb81808350a031219758dd323b",
+  "_from": "tch-command-release@^0.1.0",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "gerdy",
+    "email": "imfpe@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "gerdy",
+      "email": "imfpe@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5ad210b43ebd3ccb81808350a031219758dd323b",
+    "tarball": "http://registry.npmjs.org/tch-command-release/-/tch-command-release-0.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/tch-command-release/-/tch-command-release-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
